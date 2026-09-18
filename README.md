@@ -1,7 +1,7 @@
 # AI-Driven-Multi-Sensor-Anomaly-Cyber-Resilience-Simulator
-# AI-Driven Multi-Sensor Anomaly Detection and Cyber-Resilient Situational Awareness Simulator
 
-> **Major Project | Defence Technology | Artificial Intelligence | Cybersecurity | Sensor Fusion | Simulation**
+
+> ** | Defence Technology | Artificial Intelligence | Cybersecurity | Sensor Fusion | Simulation**
 
 ## 📌 Overview
 
